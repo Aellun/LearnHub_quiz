@@ -14,7 +14,7 @@ To view or modify the landing page locally, follow these steps:
 
 1. **Clone the Repository:**
     ```sh
-git clone https://github.com/Aellun/LearnHub_quiz.git
+    git clone https://github.com/Aellun/LearnHub_quiz.git
 
 
 2. **Navigate to the Project Directory**
@@ -25,20 +25,20 @@ git clone https://github.com/Aellun/LearnHub_quiz.git
     Open index.html in your preferred web browser.
 
 4. **Deployment**
-The landing page is hosted on GitHub Pages. You can view it at the following URL:
 
-https://aellun.github.io/LearnHub_quiz/
+    The landing page is hosted on GitHub Pages. You can view it at the following URL:
+    https://aellun.github.io/LearnHub_quiz/
 
 ## Contributing
-If you would like to contribute to this project, please follow these steps:
+    If you would like to contribute to this project, please follow these steps:
 
-Fork the repository
-Create a new branch (git checkout -b feature-branch)
-Commit your changes (git commit -am 'Add new feature')
-Push to the branch (git push origin feature-branch)
-Create a new Pull Request
+    Fork the repository
+    Create a new branch (git checkout -b feature-branch)
+    Commit your changes (git commit -am 'Add new feature')
+    Push to the branch (git push origin feature-branch)
+    Create a new Pull Request
 
-Contact
+## Contact
 For any inquiries or issues, please contact:
 
 Okello Kevin - okevinotieno@outlook.com || allankevin22@gmail.com
